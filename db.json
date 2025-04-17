@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "3447",
+      "Name": "BINDUSHREE M",
+      "Email": "bindumurthy3040@gmail.com",
+      "Date": "2002-05-01",
+      "Password": "bindu",
+      "Cpassword": "bindu"
+    },
+    {
+      "id": "0a06",
+      "Name": "BINDUSHREE M",
+      "Email": "bindumurthy3040@gmail.com",
+      "Date": "2025-04-17",
+      "Password": "bin",
+      "Cpassword": "bindu"
+    },
+    {
+      "id": "9d85",
+      "Name": "Good",
+      "Email": "good@123",
+      "Date": "2025-04-16",
+      "Password": "good",
+      "Cpassword": "good"
+    }
+  ]
+}
